@@ -35,5 +35,10 @@ public class BurungAksi {
         Merak.panjang_burung="100-120cm";
         Merak.bentuk_ekor="Mengembang sangat lebar";
         Merak.tinggi_burung="70cm";
+        
+        
+        Elang.cara_terbang();
+        Gagak.cara_terbang();
+        Merak.cara_terbang();
     }
 }
